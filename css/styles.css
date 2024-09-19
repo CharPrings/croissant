@@ -2,6 +2,24 @@ body {
   background: rgb(150, 207, 150);
 }
 
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+.email {
+  display: flex;
+  justify-content: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
 .croissants {
-  max-width: 200px;
+  max-width: 20%;
+  display: flex;
+  margin: auto;
 }
