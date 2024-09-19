@@ -8,15 +8,12 @@ p {
   text-align: center;
 }
 
-.email {
-  display: flex;
-  justify-content: center;
+footer {
+  text-align: center;
+  margin: 20px;
 }
-
-.links {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
+footer a {
+  margin: 0 10px;
 }
 .croissants {
   max-width: 20%;
